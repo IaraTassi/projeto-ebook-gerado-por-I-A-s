@@ -14,6 +14,9 @@ seguem abaixo.
 
 <a href="https://github.com/IaraTassi/projeto-ebook-gerado-por-I-A-s/blob/main/output/Ebook%20-%20POO%20com%20Gatitude.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+✔ O resultado:
+<img src=".github/assets/Ebook - POO com Gatitude.gif">
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
