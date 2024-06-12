@@ -1,4 +1,4 @@
-# Ebook Gerado por IAs
+# Projeto para desafio - Santander 2024 - Fundamentos de IA para Devs - DIO
 
 <p align="center">
 <img 
@@ -6,6 +6,8 @@
     width="400"  
 />
 </p>
+
+## Ebook Gerado por IAs
 
 > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o Bootcamp Santander 2024.
 
@@ -18,6 +20,7 @@ seguem abaixo.
 <br>
 
 <img src=".github/assets/Ebook - POO com Gatitude.gif" width="300">
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
